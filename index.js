@@ -17,10 +17,15 @@ automobiliai.prideti('range rover');
 
 automobiliai.spausdinti();
 
-automobiliai.redaguoti(10, 'mazda'); // koki automobili esanti sarase norim red ir i koki
-automobiliai.redaguoti(-1, 'mazda');
-automobiliai.redaguoti(2.5, 'mazda');
+// koki automobili esanti sarase norim red ir i ka pakeisti
+
 automobiliai.redaguoti(3, 'opel');
+
+automobiliai.pasalinti(1);
+automobiliai.pasalinti(2);
+automobiliai.pasalinti(3);
+
+
 automobiliai.spausdinti();
 
 
