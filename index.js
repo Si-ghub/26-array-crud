@@ -17,7 +17,7 @@ automobiliai.prideti('range rover');
 
 automobiliai.spausdinti();
 
-// koki automobili esanti sarase norim red ir i ka pakeisti
+// koki automobili esanti sarase norim redaguoti ir i ka pakeisti
 
 automobiliai.redaguoti(3, 'opel');
 
